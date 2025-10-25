@@ -15,7 +15,7 @@
 - 📧 **Email**: [yosefalemu007@gmail.com](mailto:yosefalemu007@gmail.com)  
 - 📞 **Phone**: +251982010318
 - 🌍 **Location**: Addis Ababa, Ethiopia  
-- 🔗 **[LinkedIn](https://linkedin.com/in/yosef-alemu)** | **[Whatapp](https://web.whatsapp.com/yosefalemu007)** | **[Telegram](https://t.me/Arybs007)**
+- 🔗 **[X](https://x.com/AlemuYosef92109)** | **[Whatapp](https://web.whatsapp.com/yosefalemu007)** | **[Telegram](https://t.me/Arybs007)**
 - 🌐 **Portfolio**: [yosefalemu.com](https://portfolio-site-six-dusky.vercel.app/) 
 
 ---
