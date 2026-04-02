@@ -1,8 +1,9 @@
-<h1 align="left">Hi 👋, I'm Yosef Alemu</h1>
-<h1 align="left">Software Engineer | Full Stack Developer</h1>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yosefalemu&label=Profile%20Views&color=0e75b6&style=flat" alt="yosefalemu" /> 
+# 👨‍💻 Yosef Alemu | Full-Stack Engineer
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yosefalemu&label=System%20Uptime&color=1793d1&style=flat-square" alt="yosefalemu" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793d1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-green?style=flat-square" alt="Open to work" /> </p>
 </p>
 
 <p align="left"> 
@@ -59,14 +60,14 @@ Graduated with a comprehensive degree in Computer Engineering, building a strong
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefalemu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yosefalemu&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yosefalemu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yosefalemu&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefalemu&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefalemu&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
