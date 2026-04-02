@@ -11,25 +11,6 @@
 </p>
 
 ---
-
-### 🗓️ Get in Touch
-- 📧 **Email**: [yosefalemu007@gmail.com](mailto:yosefalemu007@gmail.com)  
-- 📞 **Phone**: +251982010318
-- 🌍 **Location**: Addis Ababa, Ethiopia  
-- 🔗 **[X](https://x.com/adacode001)** | **[Whatapp](https://web.whatsapp.com/yosefalemu007)** | **[Telegram](https://t.me/Arybs007)**
-- 🌐 **Portfolio**: [yosefalemu.com](https://portfolio-site-six-dusky.vercel.app/) 
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,go,dart,py,r,nextjs,react,redux,css,tailwind,materialui,flutter,django,express,nodejs,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,github,kubernetes,docker,git,postman" />
-  </a>
-</p>
-
----
-
 ### 🎓 Education
 **Computer Engineer**  
 Addis Ababa Institute of Technology  
@@ -56,6 +37,15 @@ Graduated with a comprehensive degree in Computer Engineering, building a strong
 
 ---
 
+### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,go,dart,py,r,nextjs,react,redux,css,tailwind,materialui,flutter,django,fastapi,express,nodejs,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,github,kubernetes,docker,git,arch,linux" />
+  </a>
+</p>
+
+---
+
 ### 📈 My Stats
 <table align="center">
   <tr>
@@ -71,3 +61,12 @@ Graduated with a comprehensive degree in Computer Engineering, building a strong
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefalemu&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
+
+---
+
+### 🗓️ Get in Touch
+- 📧 **Email**: [yosefalemu007@gmail.com](mailto:yosefalemu007@gmail.com)  
+- 📞 **Phone**: +251982010318
+- 🌍 **Location**: Addis Ababa, Ethiopia  
+- 🔗 **[X](https://x.com/adacode001)** | **[Whatapp](https://web.whatsapp.com/yosefalemu007)** | **[Telegram](https://t.me/Arybs007)**
+- 🌐 **Portfolio**: [yosefalemu.com](https://portfolio-site-six-dusky.vercel.app/) 
