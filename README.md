@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,go,dart,py,r,nextjs,react,redux,css,tailwind,materialui,flutter,django,fastapi,express,nodejs,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,github,kubernetes,docker,git,pytorch,tensorflow,aws,gcp,azure,terraform,redis,arch,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,go,dart,py,r,nextjs,react,redux,css,tailwind,materialui,flutter,django,fastapi,express,nodejs,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,github,kubernetes,docker,git,pytorch,tensorflow,aws,gcp,azure,redis,arch,linux" />
   </a>
 </p>
